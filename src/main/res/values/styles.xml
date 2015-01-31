@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="None">
+  </style>
+
+  <style name="Theme.U2020" parent="android:Theme.Holo.NoActionBar">
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowActionBarOverlay">true</item>
+  </style>
+</resources>
